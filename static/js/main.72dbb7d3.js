@@ -10519,7 +10519,7 @@
                 className: "join",
                 children: (0, s.jsx)("a", {
                   className: "join",
-                  href: "https://t.me/GROKISTANeth",
+                  href: "tglink",
                   target: "_blank",
                   children: "Join the fight",
                 }),
@@ -10564,7 +10564,7 @@
                 (0, s.jsx)("a", {
                   target: "_blank",
                   className: "medium",
-                  href: "https://medium.com/me/stories/public",
+                  href: "mediumlink",
                   children: (0, s.jsx)("img", {
                     src: "data:image/png;base64,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",
                     alt: "Medium",
@@ -10573,7 +10573,7 @@
                 (0, s.jsx)("a", {
                   target: "_blank",
                   className: "medium",
-                  href: "mailto:GROKISTANether@gmail.com\n",
+                  href: "mailto:grokistaneth@gmail.com\n",
                   children: (0, s.jsx)("img", { src: f, alt: "email" }),
                 }),
               ],
@@ -10664,7 +10664,7 @@
                                 className: "border-b  my-8 uppercase",
                                 children: [
                                   (0, s.jsx)("a", {
-                                    href: "https://t.me/GROKISTANeth",
+                                    href: "tglink",
                                     target: "_blank",
                                     children: "Telegram",
                                   }),
@@ -10676,7 +10676,7 @@
                               (0, s.jsx)("li", {
                                 className: "border-b  my-8 uppercase",
                                 children: (0, s.jsx)("a", {
-                                  href: "https://twitter.com/GROKISTANethereum",
+                                  href: "twitterlink",
                                   target: "_blank",
                                   children: "Twitter",
                                 }),
@@ -10710,7 +10710,7 @@
                           className: "home",
                           children: [
                             (0, s.jsx)("a", {
-                              href: "https://t.me/GROKISTANeth",
+                              href: "tglink",
                               target: "_blank",
                               children: "Telegram",
                             }),
@@ -10722,7 +10722,7 @@
                         children: (0, s.jsx)("div", {
                           className: "home",
                           children: (0, s.jsx)("a", {
-                            href: "https://twitter.com/GROKISTANethereum",
+                            href: "twitterlink",
                             target: "_blank",
                             children: "Twitter",
                           }),
@@ -10743,7 +10743,7 @@
                           className: "home",
                           children: (0, s.jsx)("a", {
                             target: "_blank",
-                            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x7675311d9eede24528bbdb076f2bcad7c12899b3",
+                            href: "chartlink",
                             children: "Dextools",
                           }),
                         }),
@@ -11723,7 +11723,7 @@
                 ? (0, s.jsx)(_, {
                     oop: 1,
                     wrapper: "p",
-                    steps: ["Salam GROKISTAN!", 3500],
+                    steps: ["SALAM FROM GROKISTAN!", 3500],
                   })
                 : null,
             }),
