@@ -10509,11 +10509,11 @@
               (0, s.jsx)("img", { className: "name", src: u, alt: "" }),
               (0, s.jsx)("p", {
                 children:
-                  "Arabs struck liquid gold beneath the sands, fueling a surge of wealth and power. It's time for us to strike the digital gold and cash out generational wealth!",
+                  "Arabs struck liquid gold beneath the sands in, fueling a surge of wealth and power. It's time for us Grokistanis, to strike the digital gold and cash out generational wealth!",
               }),
               (0, s.jsx)("p", {
                 children:
-                  "\u0636\u0631\u0628 \u0627\u0644\u0639\u0631\u0628 \u0627\u0644\u0630\u0647\u0628 \u0627\u0644\u0633\u0627\u0626\u0644 \u062a\u062d\u062a \u0627\u0644\u0631\u0645\u0627\u0644 \u060c \u0645\u0645\u0627 \u0623\u062f\u0649 \u0625\u0644\u0649 \u0632\u064a\u0627\u062f\u0629 \u0627\u0644\u062b\u0631\u0648\u0629 \u0648\u0627\u0644\u0633\u0644\u0637\u0629. \u062d\u0627\u0646 \u0627\u0644\u0648\u0642\u062a \u0644\u0636\u0631\u0628 \u0627\u0644\u0630\u0647\u0628 \u0627\u0644\u0631\u0642\u0645\u064a \u0648\u0635\u0631\u0641 \u062b\u0631\u0648\u0629 \u0627\u0644\u0623\u062c\u064a\u0627\u0644!",
+                  "لقد استخرج العرب الذهب السائل تحت الرمال، مما أدى إلى زيادة الثروة والسلطة. لقد حان الوقت لنا نحن سكان جروكستان، لنحصل على الذهب الرقمي ونستفيد من ثروة الأجيال!",
               }),
               (0, s.jsx)("div", {
                 className: "join",
