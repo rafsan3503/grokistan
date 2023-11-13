@@ -10509,7 +10509,7 @@
               (0, s.jsx)("img", { className: "name", src: u, alt: "" }),
               (0, s.jsx)("p", {
                 children:
-                  "Arabs struck liquid gold beneath the sands in, fueling a surge of wealth and power. It's time for us Grokistanis, to strike the digital gold and cash out generational wealth!",
+                  "ZachXBT struck liquid gold during the war of GROK, which is now recovering with a surge of wealth and power. It's time for us Grokistanis, to strike the digital gold and fight against war starters  like Zach, and cash out generational wealth!",
               }),
               (0, s.jsx)("p", {
                 children:
@@ -10519,7 +10519,7 @@
                 className: "join",
                 children: (0, s.jsx)("a", {
                   className: "join",
-                  href: "tglink",
+                  href: "https://t.me/grokistanportal",
                   target: "_blank",
                   children: "Join the fight",
                 }),
@@ -10664,7 +10664,7 @@
                                 className: "border-b  my-8 uppercase",
                                 children: [
                                   (0, s.jsx)("a", {
-                                    href: "tglink",
+                                    href: "https://t.me/grokistanportal",
                                     target: "_blank",
                                     children: "Telegram",
                                   }),
@@ -10676,7 +10676,7 @@
                               (0, s.jsx)("li", {
                                 className: "border-b  my-8 uppercase",
                                 children: (0, s.jsx)("a", {
-                                  href: "twitterlink",
+                                  href: "https://twitter.com/grokistanerc",
                                   target: "_blank",
                                   children: "Twitter",
                                 }),
@@ -10710,7 +10710,7 @@
                           className: "home",
                           children: [
                             (0, s.jsx)("a", {
-                              href: "tglink",
+                              href: "https://t.me/grokistanportal",
                               target: "_blank",
                               children: "Telegram",
                             }),
@@ -10722,7 +10722,7 @@
                         children: (0, s.jsx)("div", {
                           className: "home",
                           children: (0, s.jsx)("a", {
-                            href: "twitterlink",
+                            href: "https://twitter.com/grokistanerc",
                             target: "_blank",
                             children: "Twitter",
                           }),
