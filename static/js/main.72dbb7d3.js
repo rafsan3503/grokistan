@@ -10743,7 +10743,7 @@
                           className: "home",
                           children: (0, s.jsx)("a", {
                             target: "_blank",
-                            href: "chartlink",
+                            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x15cb71b841dc3fef85a2649f0fd44996369a078d",
                             children: "Dextools",
                           }),
                         }),
