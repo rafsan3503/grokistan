@@ -10555,7 +10555,7 @@
             }),
             (0, s.jsx)("p", {
               className: "ca",
-              children: "Contract: 0x000000000000000000000",
+              children: "Contract: 0x98304d70FC815a26b0B2CdE95907fb70CE24da3A",
             }),
             (0, s.jsxs)("ul", {
               className:
